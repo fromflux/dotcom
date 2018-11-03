@@ -1,4 +1,4 @@
-# fromflux/dotcom
+# fromflux/dotcom [ARCHIVED]
 
 This is the source code for the author's web site available [here](http://fromflux.com).
 
